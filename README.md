@@ -27,6 +27,7 @@ The dataset includes various columns:
 This insight focuses on understanding the typical wait times patients experience before their appointments. Analyzing trends and patterns in wait times can reveal inefficiencies in the healthcare system and help identify areas for improvement.
 
 2.Patient Satisfaction Investigation:
+
 Examining average satisfaction scores provided by patients offers valuable insights into factors contributing to positive experiences. Understanding these factors enables healthcare providers to enhance patient satisfaction and overall quality of care.
 
 3.Total Patient Visits Monthly:
@@ -60,4 +61,8 @@ Identifying instances where services are not rated by patients sheds light on po
 10.Average Wait Time Analysis:
 
 Reiterating the importance of analyzing average wait times, this insight emphasizes its critical role in assessing healthcare system efficiency and patient satisfaction.
+
+## Power BI Dashboard
+
+![Patients ER Visit Dashboard](https://github.com/mdilshad7478/Healthcare-Analytics/assets/157358118/2bf7ef75-34c7-439e-b938-d49df48e86fb)
 
