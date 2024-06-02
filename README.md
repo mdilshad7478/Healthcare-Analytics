@@ -6,3 +6,16 @@ The project aims to create a comprehensive and efficient system for recording an
 
 ## Dataset Description
 - [Hospital ER.csv](https://github.com/user-attachments/files/15525327/Hospital.ER.csv) - Dataset used for analyzing patient visits to the emergency room.
+
+The dataset includes various columns:
+- **Date**: Date and time of the visit.
+- **Patient ID**: Unique identifier for each patient.
+- **Patient Gender**: Gender of the patient.
+- **Patient Age**: Age of the patient.
+- **Patient SAT Score**: Patient satisfaction score.
+- **Patient First Initial**: First initial of the patient’s first name.
+- **Patient Last Name**: Last name of the patient.
+- **Patient Race**: Race or ethnicity of the patient.
+- **Patient Admin Flag**: Indicates if the patient has any special administrative considerations.
+- **Patient Wait Time**: Total wait time in minutes.
+- **Department Referral**: Department to which the patient was referred.
