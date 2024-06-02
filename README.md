@@ -22,7 +22,9 @@ The dataset includes various columns:
 
 ## Project Insights
 
-1.Average Wait Time Analysis: This insight focuses on understanding the typical wait times patients experience before their appointments. Analyzing trends and patterns in wait times can reveal inefficiencies in the healthcare system and help identify areas for improvement.
+1.Average Wait Time Analysis: 
+
+This insight focuses on understanding the typical wait times patients experience before their appointments. Analyzing trends and patterns in wait times can reveal inefficiencies in the healthcare system and help identify areas for improvement.
 
 2.Patient Satisfaction Investigation: Examining average satisfaction scores provided by patients offers valuable insights into factors contributing to positive experiences. Understanding these factors enables healthcare providers to enhance patient satisfaction and overall quality of care.
 
