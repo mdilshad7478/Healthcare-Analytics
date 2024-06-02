@@ -64,5 +64,5 @@ Reiterating the importance of analyzing average wait times, this insight emphasi
 
 ## Power BI Dashboard
 
-![Patients ER Visit Dashboard](https://github.com/mdilshad7478/Healthcare-Analytics/assets/157358118/2bf7ef75-34c7-439e-b938-d49df48e86fb)
+![Patients ER Visit Dashboard](https://github.com/mdilshad7478/Healthcare-Analytics/assets/157358118/1a45a1b7-4073-47ae-9504-332b32cc5b7a)
 
